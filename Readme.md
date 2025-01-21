@@ -1,0 +1,53 @@
+Java path:
+
+- Language constructs
+- Data types
+- Operators
+- Control statements
+- Arrays
+- Strings
+- Classes and objects
+- Inheritance
+- Polymorphism
+- Abstraction
+- Encapsulation
+- Interfaces
+- Packages
+- Exceptions
+- Collections
+- Multithreading
+- Generics
+- Serialization
+- Networking
+- Reflection
+- Design patterns
+- Best practices
+- Coding standards
+- Tools
+- Garbage collection
+- Performance
+- Regular expressions
+- Spring framework
+  - Core
+  - AOP
+  - IOC
+  - DAO
+  - ORM
+  - JEE
+  - Web
+  - MVC
+  - Security
+  - REST
+  - SOAP
+  - JMS
+- Hibernate
+- JDBC
+- Servlets
+- JSP
+- JSTL
+- JPA
+- EJB
+- JAX-RS
+- JAX-WS
+- JAXB
+- JTA
